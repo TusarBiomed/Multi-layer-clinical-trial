@@ -130,6 +130,6 @@ Dmitrienko, A., & Tamhane, A. C. (2007). Multiple testing problems in pharmaceut
 European Medicines Agency. (2017). Guideline on multiplicity issues in clinical trials.
 
 # 👨‍🔬 Author
-Rezaul Karim Tusar
+Rezaul Karim Tusar,
 MSc Epidemiology
 LMU München
