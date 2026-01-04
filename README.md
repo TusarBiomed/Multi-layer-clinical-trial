@@ -132,4 +132,4 @@ European Medicines Agency. (2017). Guideline on multiplicity issues in clinical 
 # 👨‍🔬 Author
 Rezaul Karim Tusar,
 MSc Epidemiology,
-LMU München
+LMU München.
